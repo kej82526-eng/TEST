@@ -1,4 +1,4 @@
-/* USER CODE BEGIN Header */ 2026.04.24*/
+/* USER CODE BEGIN Header */ 2026.04.24* kim seong yoon */
 /**
   ******************************************************************************
   * @file           : main.c
