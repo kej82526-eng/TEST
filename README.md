@@ -16,7 +16,7 @@ TEST1
 
 
 
-```
+```c
 
 int main(void)
 {
