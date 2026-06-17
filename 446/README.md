@@ -335,12 +335,13 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
         }
 
         /* Throttle loop to prevent USART flooding (~200 Hz update rate) */
-```
-
-
-![](004.png)
-![](006.png)
         HAL_Delay(5);
 
         /* USER CODE END WHILE */
 ```
+
+![](004.png)
+![](006.png)
+    
+
+
